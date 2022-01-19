@@ -1,0 +1,3 @@
+C:/Users/Maciek/CLionProjects/wskaznik-referencja/cmake-build-debug/CMakeFiles/wskaznik_referencja.dir
+C:/Users/Maciek/CLionProjects/wskaznik-referencja/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Maciek/CLionProjects/wskaznik-referencja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
